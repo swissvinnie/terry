@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Terry — Privacy Policy</title>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p>Last updated: 8 September 2026</p>
+
+<h2>Who this applies to</h2>
+<p>Terry is a personal AI assistant operated by its owner for their own use only. It has one user: the owner of the Google account it connects to. No other people use this application and no accounts are offered to anyone else.</p>
+
+<h2>What data is accessed</h2>
+<p>With the account owner's explicit consent through Google's OAuth flow, Terry accesses:</p>
+<ul>
+<li>Gmail messages, for reading, composing, sending and organising the owner's own mail.</li>
+<li>Google Calendar events and calendars, for reading and managing the owner's own schedule.</li>
+</ul>
+
+<h2>How data is used</h2>
+<p>Data is used solely to carry out tasks the owner asks Terry to perform. It is not sold, shared, published, or used for advertising. It is not used to train machine learning models.</p>
+
+<h2>Storage and retention</h2>
+<p>Terry runs on hardware controlled by the owner. Any cached data and OAuth tokens are stored locally on that machine. Access can be revoked at any time from the Google Account permissions page, and local credentials can be deleted at any time.</p>
+
+<h2>Third parties</h2>
+<p>Message content may be sent to a third-party large language model provider in order to process the owner's requests. No other third party receives this data.</p>
+
+<h2>Contact</h2>
+<p>Questions can be directed to the developer contact email listed on this application's Google Cloud OAuth consent screen.</p>
+</body>
+</html>
